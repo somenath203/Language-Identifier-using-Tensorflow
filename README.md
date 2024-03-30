@@ -14,7 +14,7 @@ The dataset used in this project is taken from kaggle: https://www.kaggle.com/da
 3) Bidirectional SimpleRNN model
 4) Bidirectional LSTM model
 5) Bidirectional GRU model
-6) Ensemble Learning(LSTM + GRU) model
+6) Ensemble Learning(Bidirectional LSTM + Bidirectional GRU) model
 
 **Out of the all the above models, textCNN proved to be the most effective one with a training accuracy of around 78.99% and testing accuracy of around 73.65%**
 
