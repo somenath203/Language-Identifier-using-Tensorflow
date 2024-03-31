@@ -10,12 +10,13 @@ The dataset used in this project is taken from kaggle: https://www.kaggle.com/da
 ## Models used in this project
 
 1) Vanilla Sequential model
-2) TextCNN
-3) Bidirectional SimpleRNN
-4) Bidirectional LSTM
-5) Bidirectional GRU
+2) TextCNN model
+3) Bidirectional SimpleRNN model
+4) Bidirectional LSTM model
+5) Bidirectional GRU model
+6) Ensemble Learning(Bidirectional LSTM + Bidirectional GRU) model
 
-**Out of the all the above models, textCNN proved to be the most effective one with a training accuracy of around 78.61% and testing accuracy of around 74.04%**
+**Out of the all the above models, textCNN proved to be the most effective one with a training accuracy of around 78.99% and testing accuracy of around 73.65%**
 
 ## About the web application of the deep learning model
 
