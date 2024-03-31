@@ -4,3 +4,4 @@ textCNN_model.h5
 word_tokenizer.pkl
 bidirectionallstm_model.h5
 bidirectionalgru_model.h5
+.ipynb_checkpoints
