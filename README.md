@@ -24,7 +24,7 @@ The deep learning model of this project is connected with an application created
 
 ## Links
 
-Live Preview: https://som11-language-predictor.hf.space
+Live Preview: https://som11-language-predictor.hf.space/
 
 ## Warning
 While the model of this project can classify languages correctly, but in some cases, the model may misclassify languages, therefore, it is strongly advised not to rely solely on the output of this model.
